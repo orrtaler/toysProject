@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "63217b2f969b8d0eecc8c796"
+  },
+  "name": "clinton1",
+  "email": "clinton1@walla.com",
+  "password": "$2b$10$4mMHksnoUEuHa42gYF0tkuZd61fYFNn7Jd7qE63D6WdnE0hd5xLu.",
+  "date_created": {
+    "$date": "2022-09-14T06:56:05.358Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63217bfa946b3e0b2ab7b95b"
+  },
+  "name": "bush2",
+  "email": "bush2@walla.com",
+  "password": "$2b$10$.txk5CEeH1upgDyK3B.G4ukpfAIW4Xj86Li3.COu8eqPNVQyHzxc.",
+  "date_created": {
+    "$date": "2022-09-14T06:57:47.657Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6321c14521c944f0140792d6"
+  },
+  "name": "trump",
+  "email": "trump@walla.com",
+  "password": "$2b$10$aUAQABEpwULgGQB2WFe9mO3zjbQINnZJodKGg30/gQ09It/bIKccu",
+  "date_created": {
+    "$date": "2022-09-14T11:53:29.200Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63280f16b12081bdbf5e3d62"
+  },
+  "name": "moshe",
+  "email": "moshe@walla.com",
+  "password": "$2b$10$ePSJ18J1Wo3LD8.aLrSnrOr5HJAZ0DJzBVYoPhY/wdPMJrY5G8CP2",
+  "date_created": {
+    "$date": "2022-09-19T06:40:30.340Z"
+  },
+  "__v": 0
+}]

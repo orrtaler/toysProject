@@ -1,0 +1,53 @@
+[{
+  "_id": {
+    "$oid": "631ed0da42de4b7a75398c93"
+  },
+  "name": "Israel",
+  "capital": "Jerusalem",
+  "pop": 9500000,
+  "img": "israel.jpg"
+},{
+  "_id": {
+    "$oid": "631ed0da42de4b7a75398c94"
+  },
+  "name": "USA",
+  "capital": "Washington D.C",
+  "pop": 350000000,
+  "img": "USA.jpg"
+},{
+  "_id": {
+    "$oid": "631ed0da42de4b7a75398c95"
+  },
+  "name": "England",
+  "capital": "London",
+  "pop": 57000000,
+  "img": "england.jpg"
+},{
+  "_id": {
+    "$oid": "631ef39752b2698039ce76f7"
+  },
+  "name": "france",
+  "capital": "paris",
+  "pop": 1000000,
+  "img": "",
+  "date": {
+    "$date": {
+      "$numberLong": "1662969830297"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "631ef55252b2698039ce7724"
+  },
+  "name": "Japan",
+  "capital": "Tokyo",
+  "pop": 1000000,
+  "img": "",
+  "date": {
+    "$date": {
+      "$numberLong": "1662969830297"
+    }
+  },
+  "__v": 0
+}]
